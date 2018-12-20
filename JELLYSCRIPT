@@ -1,0 +1,5 @@
+${JELLY_SCRIPT,template="html"}
+<br/>
+Please find build url below for checking logs
+<br/>
+$BUILD_URL
